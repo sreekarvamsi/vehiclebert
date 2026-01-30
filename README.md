@@ -6,7 +6,7 @@
 
 Fine-tuned BERT model for Named Entity Recognition (NER) in automotive technical documentation. Extracts structured information from unstructured service manuals including vehicle parts, diagnostic codes, sensors, ECUs, and communication protocols.
 
-## 🚀 Key Features
+## Key Features
 
 - **High Accuracy**: 89% F1 score (vs 67% with generic NER models)
 - **Fast Inference**: <50ms per document
@@ -23,7 +23,7 @@ Fine-tuned BERT model for Named Entity Recognition (NER) in automotive technical
 | Recall | 87% | 64% |
 | Inference Time | <50ms | ~45ms |
 
-## 🏷️ Supported Entity Types
+## Supported Entity Types
 
 1. **VEHICLE_PART** - Physical components (engine, transmission, brake pad)
 2. **DIAGNOSTIC_CODE** - OBD-II/manufacturer codes (P0420, B1234)
@@ -53,7 +53,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## 📦 Quick Start
+## Quick Start
 
 ### Inference
 
@@ -219,9 +219,9 @@ If you use VehicleBERT in your research, please cite:
 ```bibtex
 @software{vehiclebert2025,
   title={VehicleBERT: Domain-Specific NLP for Automotive Entities},
-  author={Your Name},
+  author={Sreekar Vamsi Krishna Gajula},
   year={2025},
-  url={https://github.com/yourusername/vehiclebert}
+  url={https://github.com/sreekarvamsi/vehiclebert}
 }
 ```
 
@@ -229,7 +229,7 @@ If you use VehicleBERT in your research, please cite:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - BERT model by Google Research
 - Hugging Face Transformers library
@@ -237,9 +237,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
+Your Name - sreekarvamsikrishnag@gmail.com
 
-Project Link: [https://github.com/yourusername/vehiclebert](https://github.com/yourusername/vehiclebert)
+Project Link: [https://github.com/sreekarvamsi/vehiclebert](https://github.com/sreekarvamsi/vehiclebert)
 
 ---
 
