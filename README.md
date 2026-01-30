@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/vehiclebert.svg)](https://github.com/yourusername/vehiclebert/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/vehiclebert.svg)](https://github.com/yourusername/vehiclebert/network)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 
 Fine-tuned BERT model for Named Entity Recognition (NER) in automotive technical documentation. Extracts structured information from unstructured service manuals including vehicle parts, diagnostic codes, sensors, ECUs, and communication protocols.
